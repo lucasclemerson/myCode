@@ -1,2 +1,2 @@
 # code-basic
-Para todos os códigos basicos
+um pouco de C e C++

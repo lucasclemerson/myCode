@@ -21,6 +21,4 @@ void main ()
   printf("\né triângulo: %d", eh_triangulo);
   printf("\né equilatero: %d", eh_equilatero);
   printf("\né escaleno: %d", eh_escaleno);
-
-
 }

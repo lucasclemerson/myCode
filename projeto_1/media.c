@@ -2,7 +2,9 @@
 
 void main ()
 {
-  int n1, n2, media;
+  int n1, n2;
+  int media;
+
   printf("Informe o valor (n1): ");
   scanf("%d", &n1);
   printf("Informe o valor (n2): ");
